@@ -1,0 +1,8 @@
+# 忽略环境文件和输出目录
+output/
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+# 其他您不想追踪的文件或目录
